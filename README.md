@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Anjali Sharma
 
-<!--
-**sharmaanjali98/sharmaanjali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Result oriented professional in Mobile Application Devlopment
 
 - 🔭 I’m currently working as Android and Flutter Mobile App Development.
@@ -12,4 +10,4 @@ Result oriented professional in Mobile Application Devlopment
 🦄 Skills: Kotlin , Java, Flutter, REST APIs , Navigation, FCM, Sockets, Firebase
 
 💼 Tools: Visual Studio Code, Android Studio, Xcode and Git.
--->
+
